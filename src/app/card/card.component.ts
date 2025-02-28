@@ -106,7 +106,7 @@ import { CommonModule } from '@angular/common';
     }
     
     .hint {
-      font-size: 14px;
+      font-size: 14px; 
       opacity: 0.7;
       margin-top: 20px;
     }
